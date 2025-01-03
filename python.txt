@@ -1,2 +1,1 @@
-Hello Python code is here 
-PLease accept
+Hello Python code is here
